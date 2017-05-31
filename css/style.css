@@ -339,7 +339,7 @@ img {
 .news--date {
   color: #83969f; }
 
-.summary__column video {
+.summary__column iframe {
   margin-bottom: 10px; }
 
 /*---------------footer------------------------*/
@@ -453,7 +453,7 @@ footer {
   .content__column2 .yellow--button {
     margin: auto; }
 
-  .content__column3 video {
+  .content__column3 iframe {
     margin-top: 20px; }
 
   .quick--links {
